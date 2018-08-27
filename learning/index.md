@@ -53,6 +53,7 @@ Get jupyter notebooks for all past tutorials [here](https://github.com/JuliaComp
 - [Julia Solutions](https://www.packtpub.com/big-data-and-business-intelligence/julia-solutions-video) by Jalem Raj Rohit - A comprehensive guide to learn data science for a Julia programmer - Produced by Packt Publishing (2 hours and 52 minutes long; published: January 31, 2017; ISBN: 9781787283299)
 - [Getting Started with Julia](https://www.packtpub.com/application-development/getting-started-julia-video) by Erik Engheim - Learn the new language Julia for high performance technical computing - Produced by Packt Publishing (9 hours and 50 minutes long; published: March 31, 2017; ISBN: 9781786462978)
 - [Learning Julia](https://www.packtpub.com/application-development/learning-julia) by Anshul Joshi, Rahul Lakhanpal (316 pages; published: November 2017; ISBN: 9781785883279). This book shows you how to write effective functions, reduce code redundancies, and improve code reuse.  It will be helpful for new programmers who are starting out with Julia to explore its wide and ever-growing package ecosystem and also for experienced developers/statisticians/data scientists who want to add Julia to their skill-set.
+- [Hands-On Computer Vision with Julia](https://www.amazon.com/dp/1788998790) by Dmitrijs Cudihins (202 pages; published: June 2018; ISBN: 9781788998796). Explore the various packages in Julia that support image processing and build neural networks for video processing and object tracking.
 
 # Tutorials
 
