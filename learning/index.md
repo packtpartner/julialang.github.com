@@ -34,7 +34,7 @@ by Chris Rackauckas (February 6, 2018)
 Get jupyter notebooks for all past tutorials [here](https://github.com/JuliaComputing/JuliaBoxTutorials) or run them directly on [JuliaBox](JuliaBox.com)!
 
 # Books
-
+- [Julia 1.0 Programming - Second Edition](https://www.packtpub.com/application-development/julia-10-programming-second-edition) by Ivo Balbaert (196 pages; published: September 2018; ISBN: 9781788999090.). This book covers all you need to know about Julia in order to leverage its high speed and efficiency for your applications.
 - [Julia: High Performance Programming](https://www.packtpub.com/application-development/julia-high-performance-programming) by Ivo Balbaert, Avik Sengupta, Malcolm Sherrington
  (697 pages; published: November 2016; ISBN: 9781787125704)
    In this learning path, you will learn to use an interesting and dynamic programming language—Julia! This book is a combination and curation of the three separate books by the three authors.
