@@ -34,6 +34,8 @@ by Chris Rackauckas (February 6, 2018)
 Get jupyter notebooks for all past tutorials [here](https://github.com/JuliaComputing/JuliaBoxTutorials) or run them directly on [JuliaBox](JuliaBox.com)!
 
 # Books
+- [Julia 1.0 Programming Cookbook](https://www.amazon.com/dp/1788998367) by  Bogumil Kaminski,Przemyslaw Szufel (460 pages; published:  November 2018; ISBN: 9781788998369).
+   You will learn how to tackle issues while working with databases and data processing, and will learn about on data science problems,    data modeling, data analysis, data manipulation, parallel processing, and cloud computing with Julia.
 
 - [Julia: High Performance Programming](https://www.packtpub.com/application-development/julia-high-performance-programming) by Ivo Balbaert, Avik Sengupta, Malcolm Sherrington
  (697 pages; published: November 2016; ISBN: 9781787125704)
