@@ -38,6 +38,15 @@ Get jupyter notebooks for all past tutorials [here](https://github.com/JuliaComp
 - [Julia: High Performance Programming](https://www.packtpub.com/application-development/julia-high-performance-programming) by Ivo Balbaert, Avik Sengupta, Malcolm Sherrington
  (697 pages; published: November 2016; ISBN: 9781787125704)
    In this learning path, you will learn to use an interesting and dynamic programming language—Julia! This book is a combination and curation of the three separate books by the three authors.
+- [Julia: Programming Projects](https://www.packtpub.com/big-data-and-business-intelligence/julia-programming-projects/?utm_source=Julianlan.org&utm_medium=referral&utm_campaign=OutreachB07762dollar5) by Adrian Salceanu,
+(500 pages; published: Dec 2018; ISBN: 9781788998369)
+   	Julia offers a unique combination of performance and productivity and promises to change scientific computing as well as generic programming. It has C-like execution speed with excellent applications in multi-core, GPU, and cloud computing. Julia Programming Projects explains all this with the support of Julia v1.0.   
+- [Julia: 1.0 Programming Cookbook](https://www.packtpub.com/application-development/julia-10-programming-cookbook?utm_source=Julianlan.org&utm_medium=referral&utm_campaign=OutreachB07762dollar5) by Przemysław Szufel, Bogumił Kamiński
+(460 pages; published: November 28, 2018; ISBN: 9781788292740)
+   	Discover the new features and widely used packages in Julia to solve complex computational problems in your statistical applications.
+- [Julia: 1.0 Programming - Second Edition](https://www.packtpub.com/application-development/julia-10-programming-second-edition?utm_source=Julianlan.org&utm_medium=referral&utm_campaign=OutreachB07762dollar5) by Ivo Balbaert
+(196 pages; published: September 23, 2018; ISBN: 9781788999090)
+   	Enter the exciting world of Julia, a high-performance language for technical computing.
 - [Julia Programming for Operations Research: A Primer on Computing](http://www.chkwon.net/julia) by Changhyun Kwon (246 pages; published: 2016-05; ISBN: 978-1533328793)
     This book aims to teach how one can solve various optimization problems arising in operations research and management science.
 - [Julia High Performance](https://www.packtpub.com/application-development/julia-high-performance) by Avik Sengupta (120 pages; published: 2016-05; ISBN: 9781785880919)
